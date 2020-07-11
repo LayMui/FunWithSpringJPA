@@ -1,0 +1,13 @@
+package com.laymui.funWithJPA;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FunWithJpaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
